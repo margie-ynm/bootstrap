@@ -1,8 +1,14 @@
-h2 {
-  color:blue;
-  font-weight: bold;
+.content {
+  width: 80%;
+  float: right;
+  border: 1px solid red;
 }
 
-.jumbotron h1 {
-  color:red;
+.blog-sidebar {
+  float: left;
+  width: 15%;
+}
+
+.list {
+  float:right;
 }
